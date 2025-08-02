@@ -19,7 +19,7 @@
 - ✅ Set up development environment (Node.js, Go, PostgreSQL, Redis)
 - ✅ Create project structure for Next.js frontend and Golang backend
 - ✅ Configure Docker containers for local development
-- ✅ Set up CI/CD pipeline basics with GitHub Actions
+- ❌ Set up CI/CD pipeline basics with GitHub Actions
 
 **Day 3-4: Database Design**
 - ✅ Design PostgreSQL database schema
